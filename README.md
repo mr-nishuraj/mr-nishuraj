@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student of Computer Science<br>Aspiring Full stack Developer<br> love to travelling
+I am currently a Student of Computer Science<br>Aspiring Full stack Developer<br> love to travelling <br> Coding enthusiast
 
 
 ## 🌐 Socials:
