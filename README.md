@@ -9,6 +9,7 @@ I’m a developer who enjoys building complete web applications from concept to 
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishuraj05)
+ [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishuraj7755@gmail.com) 
  
 
 # 💻 Tech Stack:
