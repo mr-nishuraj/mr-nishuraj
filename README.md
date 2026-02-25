@@ -1,5 +1,6 @@
-# 💫 About Me:
+#  About Me:
 Currently ⚡
+
   I am an Aspiring Full Stack Developer 👨‍💻with a strong passion for building scalable and user-friendly web applications. I enjoy working on both frontend and backend technologies, turning ideas into real-world solutions through clean and efficient code. Currently, I am actively developing projects that strengthen my understanding of modern web architectures and best development practices.
 I have experience working with frontend technologies like HTML, CSS, and JavaScript, along with backend integration using Python and REST APIs. I am continuously learning new tools and frameworks to improve my technical skills and stay updated with industry trends.
 
